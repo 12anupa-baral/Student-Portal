@@ -27,7 +27,7 @@ Welcome to the Student Portal! This web application is built using the ASP.NET M
 2. **Open the project in Visual Studio:**
 
     - Navigate to the project directory.
-    - Open the solution file (`StudentPortal.sln`) in Visual Studio.
+    - Open the solution file (`Project.sln`) in Visual Studio.
 
 3. **Build the solution:**
 
